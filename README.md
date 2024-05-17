@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guhan-m&label=Profile%20views&color=0e75b6&style=flat" alt="guhan-m" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack Developer**
+- 🌱 I have completed learning the MERN Stack Developer course.
 
 - 👨‍💻 All of my projects are available at [https://guhanm.netlify.app/](https://guhanm.netlify.app/)
 
